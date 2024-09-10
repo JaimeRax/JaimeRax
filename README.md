@@ -3,8 +3,4 @@
 
 - 📫 How to reach me **jaimecaal60@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> +502 3039-3109
-</p>
-
-
+<h3 align="left">Connect with me: +502 3039-3109</h3>
